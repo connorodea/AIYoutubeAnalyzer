@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Video Analyzer",
+  "description": "An AI-powered application that allows users to enter a YouTube video URL to get a summary and start a conversation about its content, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
